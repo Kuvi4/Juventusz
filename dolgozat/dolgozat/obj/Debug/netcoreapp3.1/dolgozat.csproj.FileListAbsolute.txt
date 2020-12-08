@@ -1,0 +1,13 @@
+C:\Users\Hivat\source\repos\dolgozat\dolgozat\bin\Debug\netcoreapp3.1\dolgozat.exe
+C:\Users\Hivat\source\repos\dolgozat\dolgozat\bin\Debug\netcoreapp3.1\dolgozat.deps.json
+C:\Users\Hivat\source\repos\dolgozat\dolgozat\bin\Debug\netcoreapp3.1\dolgozat.runtimeconfig.json
+C:\Users\Hivat\source\repos\dolgozat\dolgozat\bin\Debug\netcoreapp3.1\dolgozat.runtimeconfig.dev.json
+C:\Users\Hivat\source\repos\dolgozat\dolgozat\bin\Debug\netcoreapp3.1\dolgozat.dll
+C:\Users\Hivat\source\repos\dolgozat\dolgozat\bin\Debug\netcoreapp3.1\dolgozat.pdb
+C:\Users\Hivat\source\repos\dolgozat\dolgozat\obj\Debug\netcoreapp3.1\dolgozat.csprojAssemblyReference.cache
+C:\Users\Hivat\source\repos\dolgozat\dolgozat\obj\Debug\netcoreapp3.1\dolgozat.AssemblyInfoInputs.cache
+C:\Users\Hivat\source\repos\dolgozat\dolgozat\obj\Debug\netcoreapp3.1\dolgozat.AssemblyInfo.cs
+C:\Users\Hivat\source\repos\dolgozat\dolgozat\obj\Debug\netcoreapp3.1\dolgozat.csproj.CoreCompileInputs.cache
+C:\Users\Hivat\source\repos\dolgozat\dolgozat\obj\Debug\netcoreapp3.1\dolgozat.dll
+C:\Users\Hivat\source\repos\dolgozat\dolgozat\obj\Debug\netcoreapp3.1\dolgozat.pdb
+C:\Users\Hivat\source\repos\dolgozat\dolgozat\obj\Debug\netcoreapp3.1\dolgozat.genruntimeconfig.cache

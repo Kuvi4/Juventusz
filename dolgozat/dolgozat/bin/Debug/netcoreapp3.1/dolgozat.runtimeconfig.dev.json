@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Hivat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Hivat\\.nuget\\packages"
+    ]
+  }
+}
